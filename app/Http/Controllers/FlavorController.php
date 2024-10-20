@@ -10,12 +10,12 @@ use App\Http\Requests\{
 use Illuminate\Http\Request;
 
 /**
- * Class FlavorController
+ * Class UserController
  *
  * @package App\Http\Controllers
- * @author Vinícius Siqueira
- * @link https://github.com/ViniciusSCS
- * @date 2024-10-01 15:52:04
+ * @author Ana Julia Dias 
+ * @link https://github.com/anajuliabarreto
+ * @date 2024-10-19 
  * @copyright UniEVANGÉLICA
  */
 class FlavorController extends Controller

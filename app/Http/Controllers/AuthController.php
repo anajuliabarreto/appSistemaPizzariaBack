@@ -10,8 +10,8 @@ use Laravel\Passport\TokenRepository;
  * Class AuthController
  *
  * @package App\Http\Controllers
- * @author Vinícius Siqueira
- * @link https://github.com/ViniciusSCS
+ * @author Ana Julia Dias
+ * @link https://github.com/anajuliabarreto
  * @date 2024-10-01 15:52:14
  * @copyright UniEVANGÉLICA
  */

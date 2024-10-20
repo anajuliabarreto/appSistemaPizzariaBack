@@ -13,10 +13,9 @@ use Laravel\Passport\HasApiTokens;
  * Class User
  *
  * @package App\Models
- * @author Vinícius Siqueira
- * @link https://github.com/ViniciusSCS
- * @date 2024-10-01 15:50:56
- * @copyright UniEVANGÉLICA
+ * @author Ana Júlia Dias 
+ * @link 
+ * @date 2024-10-19 15:50:56
  * @method static select(string $string, string $string1, string $string2)
  * @method static create(array $array)
  * @method static find(string $id)

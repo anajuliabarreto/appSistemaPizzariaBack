@@ -12,9 +12,9 @@ use Illuminate\Support\Facades\Auth;
  * Class UserController
  *
  * @package App\Http\Controllers
- * @author Vinícius Siqueira
- * @link https://github.com/ViniciusSCS
- * @date 2024-08-23 21:48:54
+ * @author Ana Julia Dias 
+ * @link https://github.com/anajuliabarreto
+ * @date 2024-10-19 
  * @copyright UniEVANGÉLICA
  */
 class UserController extends Controller
